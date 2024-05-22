@@ -2,7 +2,7 @@
 
 Meu nome é Elias
 
--Estou estudando no Alura
+-Estou estudando no [Alura]
 
 Estou me desenvolvendo na linguagem JavaScript
 
